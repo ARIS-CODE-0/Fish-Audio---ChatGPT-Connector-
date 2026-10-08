@@ -1,0 +1,10 @@
+{
+  "name": "Fish Audio",
+  "short_name": "Fish Audio",
+  "description": "Recherche de voix et génération de voix off MP3 avec Fish Audio.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f8fa",
+  "theme_color": "#172b2b",
+  "icons": [{ "src": "/fish-audio-icon.png", "sizes": "96x96", "type": "image/png" }]
+}
